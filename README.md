@@ -1,4 +1,4 @@
-# Login-and-Registration-using-JSP-Servlet-JDBC-MySQL
+# Login-and-Registration-using-JSP-Servlet-JDBC-MySQL 
 Certainly! When creating a Login and Registration project using JSP, Servlet, JDBC, and MySQL, it's important to provide a clear and concise description for users and developers. Here's a sample project description:
 
 ---
